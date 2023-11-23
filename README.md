@@ -1,2 +1,2 @@
-# blackmesa
-Black Mesa is a JVM programming language focused on FP
+# Lambda (λ)
+Lambda (λ) is a JVM programming language that is inspired by FP for learning purposes.
