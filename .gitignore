@@ -1,1 +1,27 @@
 output/
+# Maven
+target/
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# NetBeans
+nbproject/
+nb-configuration.xml
+
+# Compiled class file
+*.class
+
+# Log files
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.ear
